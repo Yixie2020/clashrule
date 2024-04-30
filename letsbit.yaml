@@ -7,4 +7,5 @@
 # IP-CIDR: 0
 # PROCESS-NAME: 0
 # TOTAL: 1
-DOMAIN-SUFFIX,letsbit.io
+payload:
+  - DOMAIN-SUFFIX,letsbit.io
