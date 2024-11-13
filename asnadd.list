@@ -6,8 +6,7 @@
 # DOMAIN-SUFFIX: 1
 # IP-CIDR: 0
 # PROCESS-NAME: 0
-# TOTAL: 1
-payload:
-  - IP-ASN,983
-  - IP-ASN,38136
-  - IP-ASN,134413
+# TOTAL: 3
+IP-ASN,983,no-resolve
+IP-ASN,38136,no-resolve
+IP-ASN,134413,no-resolve
