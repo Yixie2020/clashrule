@@ -10,3 +10,5 @@
 IP-ASN,983,no-resolve
 IP-ASN,38136,no-resolve
 IP-ASN,134413,no-resolve
+IP-CIDR,46.232.120.0/24,no-resolve
+IP-CIDR,46.232.123.0/24,no-resolve
