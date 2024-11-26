@@ -1,14 +1,16 @@
 # NAME: asnadd
 # AUTHOR: yixie2020
 # REPO: https://github.com/Yixie2020/clashrule
-# UPDATED: 2024-11-13 13:38:04
+# UPDATED: 2024-11-26 13:38:04
 # DOMAIN: 0
-# DOMAIN-SUFFIX: 1
-# IP-CIDR: 0
+# DOMAIN-SUFFIX: 0
+# IP-CIDR: 3
+# IP-CIDR: 3
 # PROCESS-NAME: 0
-# TOTAL: 3
+# TOTAL: 6
 IP-ASN,983,no-resolve
 IP-ASN,38136,no-resolve
 IP-ASN,134413,no-resolve
 IP-CIDR,46.232.120.0/24,no-resolve
 IP-CIDR,46.232.123.0/24,no-resolve
+IP-CIDR,45.137.182.0/24,no-resolve
