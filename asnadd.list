@@ -4,8 +4,8 @@
 # UPDATED: 2024-11-26 13:38:04
 # DOMAIN: 0
 # DOMAIN-SUFFIX: 0
-# IP-CIDR: 3
-# IP-CIDR: 3
+# IP-ASN: 3
+# IP-CIDR: 4
 # PROCESS-NAME: 0
 # TOTAL: 6
 IP-ASN,983,no-resolve
@@ -14,3 +14,4 @@ IP-ASN,134413,no-resolve
 IP-CIDR,46.232.120.0/24,no-resolve
 IP-CIDR,46.232.123.0/24,no-resolve
 IP-CIDR,45.137.182.0/24,no-resolve
+
