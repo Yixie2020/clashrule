@@ -1,0 +1,1 @@
+OR,((DOMAIN,httpdns.jdpay.com),(AND,((NETWORK,UDP),(DST-PORT,443),(NOT,((OR,((DOMAIN-SUFFIX,a.run.app),(DOMAIN-SUFFIX,cloudflare.com),(DOMAIN,app-analytics-services.com),(DOMAIN,mask.apple-dns.net),(DOMAIN,mask.icloud.com),(DOMAIN,mask-h2.icloud.com),(GEOSITE,CN),(GEOIP,CN))))))))
